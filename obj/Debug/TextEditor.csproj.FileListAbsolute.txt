@@ -1,0 +1,17 @@
+C:\Users\x-ste\source\repos\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\x-ste\source\repos\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\x-ste\source\repos\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\App.g.cs
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\AllFiles.g.cs
+C:\Users\x-ste\source\repos\TextEditor\obj\Debug\AllFiles.baml

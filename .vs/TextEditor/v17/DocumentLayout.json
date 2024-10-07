@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|c:\\users\\x-ste\\source\\repos\\texteditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|c:\\users\\x-ste\\source\\repos\\texteditor\\allfiles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|solutionrelative:allfiles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|c:\\users\\x-ste\\source\\repos\\texteditor\\allfiles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|solutionrelative:allfiles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|c:\\users\\x-ste\\source\\repos\\texteditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|c:\\users\\x-ste\\source\\repos\\texteditor\\allfilesinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E9E35B-073E-4527-8856-363531E1DDC7}|TextEditor.csproj|solutionrelative:allfilesinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllFiles.xaml",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\AllFiles.xaml",
+              "RelativeDocumentMoniker": "AllFiles.xaml",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\AllFiles.xaml",
+              "RelativeToolTip": "AllFiles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T15:09:32.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T13:16:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:16:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllFiles.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\AllFiles.xaml.cs",
+              "RelativeDocumentMoniker": "AllFiles.xaml.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\AllFiles.xaml.cs",
+              "RelativeToolTip": "AllFiles.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAxwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:08:14.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllFilesInformation.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\AllFilesInformation.cs",
+              "RelativeDocumentMoniker": "AllFilesInformation.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\TextEditor\\AllFilesInformation.cs",
+              "RelativeToolTip": "AllFilesInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:30:45.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
